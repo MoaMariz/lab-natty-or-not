@@ -15,7 +15,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 Pessoalmente falando, para a escrita de textos genéricos fica excelente, tendo em vista que 99% dos textos que recebemos diariamente possuem um nivel baixo de complexidade, a IA consegue
 me enganar - "Natty". Tentei gerar alguns assuntos mais complexos da área que eu trabalho e domino, e aí o bixo pega... fica um resultado tanto quanto duvidoso. Talvez seja minha incapacidade de dominar o prompt, de qualquer forma, achei bem interessante.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](Ebook.pdf)
 
 ## 💭 Reflexão
 Foi uma experencia interessante, tem muito potencial, e, quanto mais cedo aprendermos a dominar a tecnologia, melhor.
